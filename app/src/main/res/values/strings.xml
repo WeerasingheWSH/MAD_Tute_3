@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="T_Msg1">Number 1</string>
+    <string name="T_Msg2">Number 2</string>
+    <string name="B_Msg1">ok</string>
+    <string name="B_Msg2">+</string>
+    <string name="B_Msg3">-</string>
+    <string name="B_Msg4">*</string>
+    <string name="B_Msg5">/</string>
+</resources>
